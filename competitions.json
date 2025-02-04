@@ -1,0 +1,53 @@
+{
+  "pokemon": {
+    "start_date": "2024-11-07",
+    "end_date": "2025-02-28",
+    "participants": {
+      "332336666666729474": {
+        "weight": 200.5,
+        "body_fat": 30.2,
+        "muscle_mass": 133.1,
+        "bmr": 1947.0
+      },
+      "763266960623796235": {
+        "weight": 160.1,
+        "body_fat": 41.2,
+        "muscle_mass": 82.6,
+        "bmr": 1254.0
+      }
+    },
+    "creator": "332336666666729474"
+  },
+  "steve is gay": {
+    "start_date": "2025-02-04",
+    "end_date": "2025-07-07",
+    "participants": {
+      "332336666666729474": {
+        "weight": 199.6,
+        "body_fat": 28.2,
+        "muscle_mass": 135.8,
+        "bmr": 1969.0
+      }
+    },
+    "creator": "332336666666729474"
+  },
+  "beach bod time": {
+    "start_date": "2025-02-03",
+    "end_date": "2025-07-07",
+    "participants": {
+      "212681822251909121": {
+        "weight": 185.9,
+        "body_fat": 24.9,
+        "muscle_mass": 132.4,
+        "bmr": 1886.0
+      },
+      "332336666666729474": {
+        "weight": 199.6,
+        "body_fat": 28.2,
+        "muscle_mass": 135.8,
+        "bmr": 1969.0
+      }
+    },
+    "creator": "212681822251909121"
+  }
+}
